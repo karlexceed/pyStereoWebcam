@@ -9,6 +9,8 @@ Using:
 Python 2.7
 openCV 2.4
 
+The files common.py, common.pyc, video.py, and video.pyc are from the Python examples folder of openCV.
+
 Developed with:
 Windows 7 (64 bit)
 jEdit
